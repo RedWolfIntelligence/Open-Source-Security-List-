@@ -7,6 +7,7 @@ Welcome to the Open Source Security List
   
   
  Project Management: 
+ 
 	- Trello https://trello.com/en-US
 	- MeisterTask https://www.meistertask.com/
 	- Wrike https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk6tr6tpvjAhUE4MgKHbv2BR0YABAAGgJxdQ&ohost=www.google.com&cid=CAESEeD20Zpi5P6sIDYSwTN0R6sH&sig=AOD64_3sIr0fiuILpk9tST2kZvVEHO3JnA&q=&ved=2ahUKEwiC_NL6tpvjAhVlu1kKHQsgBtoQ0Qx6BAgOEAE&adurl=
@@ -17,6 +18,7 @@ Welcome to the Open Source Security List
 	- Wekan https://wekan.github.io
 	
 Asset Management + Supply Chain: 
+
 	- Snipe-IT https://github.com/snipe/snipe-it
 	- Ralph https://github.com/allegro/ralph
 	- Open Boxes https://github.com/openboxes/openboxes

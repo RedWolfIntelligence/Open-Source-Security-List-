@@ -1,35 +1,4 @@
-  
-  ____________________________________________________
-  |____________________________________________________|
-  | __     __   ____   ___ ||  ____    ____     _  __  |
-  ||  |__ |--|_| || |_|   |||_|**|*|__|+|+||___| ||  | |
-  ||==|^^||--| |=||=| |=*=||| |~~|~|  |=|=|| | |~||==| |
-  ||  |##||  | | || | |---|||-|  | |==|+|+||-|-|~||__| |
-  ||__|__||__|_|_||_|_|___|||_|__|_|__|_|_||_|_|_||__|_|
-  ||_______________________||__________________________|
-  | _____________________  ||      __   __  _  __    _ |
-  ||=|=|=|=|=|=|=|=|=|=|=| __..\/ |  |_|  ||#||==|  / /|
-  || | | | | | | | | | | |/\ \  \\|++|=|  || ||==| / / |
-  ||_|_|_|_|_|_|_|_|_|_|_/_/\_.___\__|_|__||_||__|/_/__|
-  |____________________ /\~()/()~//\ __________________|
-  | __   __    _  _     \_  (_ .  _/ _    ___     _____|
-  ||~~|_|..|__| || |_ _   \ //\\ /  |=|__|~|~|___| | | |
-  ||--|+|^^|==|1||2| | |__/\ __ /\__| |==|x|x|+|+|=|=|=|
-  ||__|_|__|__|_||_|_| /  \ \  / /  \_|__|_|_|_|_|_|_|_|
-  |_________________ _/    \/\/\/    \_ _______________|
-  | _____   _   __  |/      \../      \|  __   __   ___|
-  ||_____|_| |_|##|_||   |   \/ __|   ||_|==|_|++|_|-|||
-  ||______||=|#|--| |\   \   o    /   /| |  |~|  | | |||
-  ||______||_|_|__|_|_\   \  o   /   /_|_|__|_|__|_|_|||
-  |_________ __________\___\____/___/___________ ______|
-  |__    _  /    ________     ______           /| _ _ _|
-  |\ \  |=|/   //    /| //   /  /  / |        / ||%|%|%|
-  | \/\ |*/  .//____//.//   /__/__/ (_)      /  ||=|=|=|
-__|  \/\|/   /(____|/ //                    /  /||~|~|~|__
-  |___\_/   /________//   ________         /  / ||_|_|_|
-  |___ /   (|________/   |\_______\       /  /| |______|
-  
- Welcome to the Open Source Security List
+Welcome to the Open Source Security List
   This initiavite first came up one night upon talking amongst each other. Conversing about the hardships that different organizations faced. Not to mention that within the community we often see other peers ridiculing the notion of Open-Source. One thing that should be understood is that Open-Source is not terrible. Obvious reasoning being that the code is public and available for fuzzing. Let's be real if someone really wanted to attack an organization with closed source software then they would just use money to purchase the same technology. No matter what every organization needs to have some form of security in place. That being said we are asking everyone to please share this with anyone you think needs this. 
   
     We also know that there are many more tools out there, so please feel free to fork this off and add what ever tool you feel fits! 

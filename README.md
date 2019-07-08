@@ -196,7 +196,7 @@ Monitoring and Logging:
 	- GEMR http://www.gmer.net/
 	- Rootkit Revealer https://docs.microsoft.com/en-us/sysinternals/downloads/rootkit-revealer
 	- chkrootkit http://www.chkrootkit.org/
-	- ClamAV - 
+	
 	
 	
 -  Anti-Spam: 

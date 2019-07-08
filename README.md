@@ -1,14 +1,13 @@
 Welcome to the Open Source Security List
   This initiavite first came up one night upon talking amongst each other. Conversing about the hardships that different organizations faced. Not to mention that within the community we often see other peers ridiculing the notion of Open-Source. One thing that should be understood is that Open-Source is not terrible. Obvious reasoning being that the code is public and available for fuzzing. Let's be real if someone really wanted to attack an organization with closed source software then they would just use money to purchase the same technology. No matter what every organization needs to have some form of security in place. That being said we are asking everyone to please share this with anyone you think needs this. 
   
-    We also know that there are many more tools out there, so please feel free to fork this off and add what ever tool you feel fits! 
+   We also know that there are many more tools out there, so please feel free to fork this off and add what ever tool you feel fits! 
   
   Lets begin the journey! 
   
   
  Project Management: 
- 
-	- Trello https://trello.com/en-US
+    - Trello https://trello.com/en-US
 	- MeisterTask https://www.meistertask.com/
 	- Wrike https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk6tr6tpvjAhUE4MgKHbv2BR0YABAAGgJxdQ&ohost=www.google.com&cid=CAESEeD20Zpi5P6sIDYSwTN0R6sH&sig=AOD64_3sIr0fiuILpk9tST2kZvVEHO3JnA&q=&ved=2ahUKEwiC_NL6tpvjAhVlu1kKHQsgBtoQ0Qx6BAgOEAE&adurl=
 	- Bitrix24 https://www.bitrix24.com/
@@ -18,8 +17,7 @@ Welcome to the Open Source Security List
 	- Wekan https://wekan.github.io
 	
 Asset Management + Supply Chain: 
-
-	- Snipe-IT https://github.com/snipe/snipe-it
+    - Snipe-IT https://github.com/snipe/snipe-it
 	- Ralph https://github.com/allegro/ralph
 	- Open Boxes https://github.com/openboxes/openboxes
 	- Spiceworks https://www.spiceworks.com
@@ -33,7 +31,7 @@ Vulnerability Management:
 	
 
 Configuation Mangement: 
-	- MGMT https://github.com/purpleidea/mgmt 
+    - MGMT https://github.com/purpleidea/mgmt 
 	- Chef https://downloads.chef.io/
 	- Puppet https://puppet.com/download-open-source-puppet
 	- CFengine https://cfengine.com/product/free-download/
@@ -218,7 +216,7 @@ Disk Image Creation Tools:
 	
 	
 Network Analysis: 
-	- Xplico http://www.xplico.org/download
+	 - Xplico http://www.xplico.org/download
 	
 	
 Evidence Collection: 
@@ -321,40 +319,10 @@ DNS
 	- djbdns http://cr.yp.to/djbdns.html
 	- Designate - https://wiki.openstack.org/wiki/Designate
 	- dnsmasq - http://www.thekelleys.org.uk/dnsmasq/doc.html
-	- knot - https://www.knot-dns.cz/
+	- knot - https://www.knot-dns.cz/ 
   Your Friends, 
                 James Grandoff, Sean Johns (not the clothing brand), Logan Hicks 
   
 	
-  ****
+  
   We thank you for taking the time to look at our list. A lot of thought was put behind this initiative. 
-  
-                     ;;\\/;;;;;;;;
-                   ;;;;;;;;;;;;;;;;;
-                ;;;;;;;;;;;;     ;;;;;
-               ;;;;;    ;;;         \;;     ..... Hello Good Sir! 
-              ;;;;;      ;;          |;
-             ;;;;         ;          |
-             ;;;                     |
-              ;;                     )
-               \    ~~~~ ~~~~~~~    /
-                \    ~~~~~~~  ~~   /
-              |\ \                / /|
-               \\| %%%%%    %%%%% |//
-              [[====================]]
-               | |  ^          ^  |
-               | | :@: |/  \| :@: | |
-                \______/\  /\______/
-                 |     (@\/@)     |
-                /                  \
-               /  ;-----\  ______;  \
-               \         \/         /
-                )                  (
-               /                    \
-               \__                  /
-                \_                _/
-                 \______/\/\______/
-                  _|    /--\    |_
-                 /%%\  /"'"'\  /%%\
-
-  

@@ -52,7 +52,7 @@ Configuation Mangement:
 	- Bcfg2 http://bcfg2.org/download/
 	- Saltstack https://www.saltstack.com
 	
-SEIM: 
+SIEM: 
 	
 	- OSSEC https://www.ossec.net/
 	- WAZUH  https://wazuh.com/

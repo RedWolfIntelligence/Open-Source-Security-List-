@@ -370,7 +370,7 @@ DNS
 	- knot - https://www.knot-dns.cz/ 
   
   
-  Your Friends, 
+  Your Friends 
                 James Grandoff, Sean Johns (not the clothing brand), Logan Hicks 
   
 	

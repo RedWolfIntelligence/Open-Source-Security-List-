@@ -344,7 +344,7 @@ Automated Triaging:
 	- PE Studio https://www.winitor.com/
 	- FAME - https://github.com/certsocietegenerale/fame
 	- VIPER https://github.com/viper-framework/viper
-	
+	- MalwOverview https://github.com/alexandreborges/malwoverview
 
 Online Sandbox: 
 	

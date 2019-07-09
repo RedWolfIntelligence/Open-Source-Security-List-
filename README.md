@@ -371,7 +371,7 @@ DNS
   
   
   Your Friends 
-                James Grandoff, Sean Johns (not the clothing brand), Logan Hicks 
+                James Grandoff, Sean Johns (not the clothing brand), Logan Hicks, and Matt Cone  
   
 	
   

@@ -47,6 +47,8 @@ Configuation Mangement:
 	- Juju https://github.com/juju/juju
 	- Rudder https://www.rudder.io/en/
 	- Ansible https://www.ansible.com/
+	- AWX https://github.com/ansible/awx
+	- AWX-RPM https://awx.wiki
 	- Terraform https://www.terraform.io/downloads.html
 	- Vagrant https://www.vagrantup.com/downloads
 	- Bcfg2 http://bcfg2.org/download/
@@ -361,14 +363,19 @@ IOC Scanner:
 	- Zimmermans Toolkit https://ericzimmerman.github.io/#!index.md
 	- Didier Stevens Toolkit https://blog.didierstevens.com/my-software/
 	
-DNS
+DNS:
 	
 	- Bind https://www.isc.org/downloads/bind/
 	- djbdns http://cr.yp.to/djbdns.html
 	- Designate - https://wiki.openstack.org/wiki/Designate
 	- dnsmasq - http://www.thekelleys.org.uk/dnsmasq/doc.html
-	- knot - https://www.knot-dns.cz/ 
+	- knot - https://www.knot-dns.cz/
+	
   
+AD:
+
+        - FreeIPA: https://www.freeipa.org/page/Main_Page
+	- Samba: https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller
   
   Your Friends 
                 James Grandoff, Sean Johns (not the clothing brand), Logan Hicks 

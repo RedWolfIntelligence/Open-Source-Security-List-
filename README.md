@@ -362,7 +362,12 @@ IOC Scanner:
 	- Fast IR https://github.com/SekoiaLab/Fastir_Collector 
 	- Zimmermans Toolkit https://ericzimmerman.github.io/#!index.md
 	- Didier Stevens Toolkit https://blog.didierstevens.com/my-software/
-	
+
+AD:
+        
+        - FreeIPA: https://www.freeipa.org/page/Main_Page
+        - Samba: https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller
+        
 DNS:
 	
 	- Bind https://www.isc.org/downloads/bind/
@@ -371,11 +376,7 @@ DNS:
 	- dnsmasq - http://www.thekelleys.org.uk/dnsmasq/doc.html
 	- knot - https://www.knot-dns.cz/
 	
-AD:
-        
-        - FreeIPA: https://www.freeipa.org/page/Main_Page
-        - Samba: https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller
-        
+
 	
   Your Friends 
                 James Grandoff, Sean Johns (not the clothing brand), Logan Hicks 

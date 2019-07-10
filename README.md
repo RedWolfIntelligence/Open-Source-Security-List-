@@ -370,8 +370,7 @@ DNS:
 	- Designate - https://wiki.openstack.org/wiki/Designate
 	- dnsmasq - http://www.thekelleys.org.uk/dnsmasq/doc.html
 	- knot - https://www.knot-dns.cz/
-	
-  
+	  
 AD:
 
         - FreeIPA: https://www.freeipa.org/page/Main_Page

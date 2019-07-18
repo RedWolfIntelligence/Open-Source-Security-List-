@@ -37,6 +37,15 @@ Vulnerability Management:
 	- Watchdog https://github.com/flipkart-incubator/watchdog
 	- OpenVAS https://sectools.org/tool/openvas/
 	
+Containter Scanning: 
+
+
+	- Trivy https://github.com/knqyf263/trivy
+	
+Docker UI: 
+
+	- lazydocker https://github.com/jesseduffield/lazydocker/blob/master/README.md
+	
 
 Configuation Mangement: 
     	
@@ -57,17 +66,23 @@ SIEM:
 	- OSSEC https://www.ossec.net/
 	- WAZUH  https://wazuh.com/
 	- ZEEK  https://www.zeek.org/
-	
+	- EventLog360 https://www.manageengine.com/log-management/download.html
+	- Alient Vault - OSSIM https://www.alienvault.com/products/ossim
 	
 VPN: 
 	
 	- OpenVPN https://openvpn.net/
+		- Check out https://www.vpnbook.com/
 	- Libreswan VPN https://libreswan.org/
 	- strongSwan https://www.strongswan.org/
 	- OpenConnect http://www.infradead.org/openconnect/ 
 	- Social VPN http://ipop-project.org/
 	- SoftEther VPN https://www.softether.org/
 	- Tinc VPN http://www.tinc-vpn.org/
+
+End Point Detection: 
+	
+	- Redline https://www.fireeye.com/services/freeware/redline.html
 	
 	
 Linux & Windows System Hardener: 
@@ -135,6 +150,15 @@ Server/Network Monitoring:
 	- WMI Monitor https://www.solarwinds.com/free-tools/wmi-monitor?CMP=ORG-BLG-DNS
 	- Wireshark https://www.wireshark.org
 	- TCPDump 
+	- NetMonitor https://www.microsoft.com/en-US/download/details.aspx?id=4865 
+	- NetMiner - http://www.netminer.com/main/main-read.do
+	- NetMon - https://www.nagios.org/downloads/
+	- Wireless Network Watcher https://www.nirsoft.net/utils/wireless_network_watcher.html
+	- AdapterWatch https://www.nirsoft.net/utils/awatch.html
+	- DNSDataView https://www.nirsoft.net/utils/dns_records_viewer.html
+	- MyLastSearch  https://www.nirsoft.net/utils/my_last_search.html
+	- SniffPass https://www.nirsoft.net/utils/password_sniffer.html
+	
 	
 Network Intrusion Detection System (NIDS): 
 	
@@ -179,6 +203,15 @@ Monitoring and Logging:
 	- F-Protection https://www.f-secure.com/us-en/home/products/anti-virus
 	- Comodo https://personalfirewall.comodo.com/
 	- 360 Total Security https://www.360totalsecurity.com/en/ 
+	- PFSense https://www.pfsense.org/download/
+	- CyberGod https://github.com/VISWESWARAN1998/CyberGod-KSGMPRH
+	- Bank_Mitigation https://github.com/CoolerVoid/bank_mitigations
+	- Fortress https://github.com/essandess/macOS-Fortress
+	- PeekabooAV https://github.com/scVENUS/PeekabooAV
+	
+Anti-USB: 
+
+	- USB Write Blocker https://legility.com/
 	
 	
 - Infrastructure Evaluation/Simulation: 
@@ -196,8 +229,11 @@ Monitoring and Logging:
 	- GEMR http://www.gmer.net/
 	- Rootkit Revealer https://docs.microsoft.com/en-us/sysinternals/downloads/rootkit-revealer
 	- chkrootkit http://www.chkrootkit.org/
-	
-	
+	- Magneto https://github.com/gwillem/magento-malware-scanner
+	- Aibolit  https://github.com/gregzem/aibolit
+	- Hijackthis  https://github.com/dragokas/hijackthis
+	- Malware Finder https://github.com/HookJordan/MalwareFinder 
+		
 	
 -  Anti-Spam: 
 	
@@ -216,7 +252,13 @@ Monitoring and Logging:
 	- AutoShun https://www.autoshun.org/
 	- MISP - Open Source Threat Intelligence Platform  https://github.com/MISP/MISP
 	- YETI https://yeti-platform.github.io/
-	- http://malc0de.com/dashboard/
+	- MalC0de http://malc0de.com/dashboard/
+	- Flight Sim Geerate Bad Traffic Flight https://github.com/alphasoc/flightsim
+	- NSAuditor - https://download.cnet.com/Nsauditor-Network-Security-Auditor/3000-2653_4-10321567.html
+	- MTA - Microsoft Threat Analyzer https://www.microsoft.com/en-us/download/details.aspx?id=44226
+	- security-onion https://securityonion.net/
+	
+
 
 - Web-Application Firewall: 
 	
@@ -250,7 +292,13 @@ Disk Image Creation Tools:
 Network Analysis: 
 	
 	- Xplico http://www.xplico.org/download
-	
+	- Spiceworks Inventory https://www.spiceworks.com/download/inventory/
+	- GraphTool  https://graph-tool.skewed.de/
+	- KeyPlayer https://cran.r-project.org/web/packages/keyplayer/index.html
+	- NDTV https://cran.r-project.org/web/packages/ndtv/index.html
+	- Walktrap https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html
+	- Connvitals https://github.com/Comcast/connvitals
+	- IVRE https://ivre.rocks/
 	
 Evidence Collection: 
 	
@@ -259,6 +307,14 @@ Evidence Collection:
 	- ir-rescue  https://github.com/diogo-fernan/ir-rescue
 	- Grr https://github.com/google/grr
 	- CimSweep https://github.com/PowerShellMafia/CimSweep
+	- Encrypted Disk Collector https://www.magnetforensics.com/free-tool-encrypted-disk-detector/
+	- Magnet RamCapture https://www.magnetforensics.com/free-tool-magnet-ram-capture/
+	- Network Miner https://www.netresec.com/?page=NetworkMiner
+	- NFI Defraser https://sourceforge.net/projects/defraser/
+	- ExifTools https://www.sno.phy.queensu.ca/~phil/exiftool/
+	- Toolsley https://www.toolsley.com/
+	- DumpZilla https://www.dumpzilla.org/
+	- Broswer History https://www.nirsoft.net/utils/browsing_history_view.html
 	 
 Log Analysis Tools
 	
@@ -331,6 +387,7 @@ Incident Response Operating System:
 	
 	- DEFT http://www.deftlinux.net/download/
 	- Plainsight http://www.plainsight.info/download.html
+	- HBCD https://www.hirensbootcd.org/download/
 	
 Sandbox: 
 	
@@ -371,7 +428,7 @@ DNS
   
   
   Your Friends 
-                James Grandoff, Sean Johns (not the clothing brand), Logan Hicks, and Matt Cone  
+                James Grandoff, Sean Johns (not the clothing brand), Logan Hicks, and Matt Cone, Patrick Rogers 
   
 	
   

@@ -60,6 +60,7 @@ Configuation Mangement:
 	- Vagrant https://www.vagrantup.com/downloads
 	- Bcfg2 http://bcfg2.org/download/
 	- Saltstack https://www.saltstack.com
+	- Cockpit https://cockpit-project.org/
 	
 SIEM: 
 	

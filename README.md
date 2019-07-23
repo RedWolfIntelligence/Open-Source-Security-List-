@@ -175,6 +175,7 @@ Host Intrustion Detection System (HIDS):
 	- Stealth https://github.com/fbb-git/stealth
 	- Ossec	https://www.ossec.net
 	- Samhain - https://la-samhna.de/samhain/s_download.html
+	- AIDE - https://aide.github.io/
 	
 	
 Monitoring and Logging:

@@ -292,6 +292,7 @@ Disk Image Creation Tools:
 	
 Network Analysis: 
 	
+	- Spyse https://spyse.com/
 	- Xplico http://www.xplico.org/download
 	- Spiceworks Inventory https://www.spiceworks.com/download/inventory/
 	- GraphTool  https://graph-tool.skewed.de/
